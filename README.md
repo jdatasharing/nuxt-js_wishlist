@@ -1,6 +1,3 @@
-## Martfury - Multi-purpose ecomerce template with Vuejs.
-
-> Thanks for your purchase. This is short document for start your project.
 
 #### Build Setup
 
@@ -34,6 +31,3 @@ $ yarn generate
     ├── store
     ├── LICENSE
     └── README.md
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
-"# wishlist_vue" 
